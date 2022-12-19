@@ -27,7 +27,7 @@
             "styles": ["ProyectoPortfolio/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": [portfolio/node_modules/bootstrap/dist/js/bootstrap.js]
+            "scripts": ["ProyectoPortfolio/node_modules/bootstrap/dist/js/bootstrap.js"]
           },
           "configurations": {
             "production": {
