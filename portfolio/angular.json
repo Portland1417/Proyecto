@@ -24,8 +24,8 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": ["portfolio/node_modules/bootstrap/dist/css/bootstrap.css",
-              "src/styles.css"
+            "styles": ["src/styles.css",
+            "portfolio/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
               "portfolio/node_modules/bootstrap/dist/js/bootstrap.js"]
